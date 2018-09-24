@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.label {
+  margin-left: 1px
+}
+
+.label-app-the-works {
+  background-color: firebrick;
+}
+
+.label-app-revolver {
+  background-color: dodgerblue;
+}
+
+.label-type-revolverpayload {
+  background-color: darkolivegreen;
+}
+
+.label-type-internal {
+  background-color: goldenrod;
+}
+
+.label-log-chips {
+  background-color: cadetblue;
+}
+
+td {
+  vertical-align: top;
+}
